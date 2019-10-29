@@ -1,8 +1,8 @@
-.log-list {
-  display: flex;
-  flex-direction: column;
-  padding: 40rpx;
+.page-section-gap{
+  box-sizing: border-box;
+  padding: 0 30rpx;
 }
-.log-item {
-  margin: 10rpx;
+
+.page-body-button {
+  margin-bottom: 30rpx;
 }
